@@ -1,7 +1,7 @@
 WELCOME = "Welcome to the guessing game! \nI'm going to pick a number, and if you can guess it you win! \nIf you guess wrong, YOU LOSE!"
 WIN = "Wow, lucky guess!!"
 LOSE = "Haha, you lose!"
-PICK_NUMBER = "Let's play!\nI'm thinking of a number... got it."
+PICK_NUMBER = "Now, the sentence has been modified..."
 PROMPT_GUESS = "Now your turn to guess!\nEnter an even number between 1 and 100: "
 PLAY_AGAIN = "Would you like to play again? (Type 'y' for yes or  'n' for no.): "
 INVALID_INPUT = "That is not a valid answer..."
